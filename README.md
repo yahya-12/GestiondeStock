@@ -1,5 +1,7 @@
 # GestiondeStock
 Full Stack application developped by me using Springboot and Angular.
+
+
 Application cloud : Le client n'a pas besoin de l'installer dans sa machine locale
                     il a besoin seulement d'une connexion internet et un navigateur web
   Plan de travail:
